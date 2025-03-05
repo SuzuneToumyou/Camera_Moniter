@@ -1,4 +1,4 @@
-## Camera_Monitor
+# Camera_Monitor
 
  ## Camera_Monitor is a Python application that uses OpenCV (cv2) and PyQt5 to monitor camera images in a window. This tool can be particularly useful for keeping an eye on your surroundings, ensuring that you won't be caught off guard by anyone, including your boss!
 
